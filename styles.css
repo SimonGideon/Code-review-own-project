@@ -25,11 +25,10 @@ ul {
   margin-block-start: 1em;
   margin-block-end: 1em;
   padding-inline-start: 40px;
-  }
+}
 
 #navbar ul {
   overflow-y: auto;
   height: 88%;
   overflow-x: hidden;
 }
-
