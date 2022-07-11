@@ -24,11 +24,13 @@
 ## Authors
 
 👤 **Simon Gideon**
-👤 **Carlos Oñoro**
+
 
 - GitHub: [@SimonGideon](https://github.com/SimonGideon)
 - Twitter: [@Simo_Giddy](https://twitter.com/Simo_Giddy)
 - LinkedIn: [mnayi-gideon](https://linkedin.com/in/mnayi-gideon)
+
+👤 **Carlos Oñoro**
 
 
 ## 🤝 Contributing
